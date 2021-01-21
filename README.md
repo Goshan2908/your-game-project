@@ -1,8 +1,8 @@
 # your-game-project
 Всеми любимая и хорошо знакомая игра, по мотивам телевизионной программы  'Своя Игра'.
 #####      Для запуска:
-1. в папке проекта npm i
-2. в папке beckend и frontend  npm start
+1. В папке beckend __npm i__ затем __npm start__.
+2. В папке frontend  __npm i redux react-redux__ затем __npm start__.
 ___
 ![alt text](img/img1.png)
 ___
